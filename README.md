@@ -4,3 +4,10 @@
 
 📱 - Social Media Manager.
 
+________________________________________________________________
+
+Tecnologias: 
+
+<i class="fa-brands fa-js"></i>
+
+
