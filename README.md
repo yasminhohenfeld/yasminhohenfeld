@@ -19,6 +19,13 @@ ________________________________________________________________
 ### Entre em contato:
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yasmin-hohenfeld-1b02861b6/)
+ 
+ _______________________________________________________________
+ 
+ ### Alguns projetos:
+ 
+ Aplicação disponível no link : https://yasminhohenfeld.github.io/german-food/
+ 
 
 
  
