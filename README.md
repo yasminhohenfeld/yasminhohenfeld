@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo!  🖤
 
-👩‍💻 - Desenvolvedora Fullstack pela Cubos Academy;
+👩‍💻 - Desenvolvedora Full Stack pela Cubos Academy;
 
 🎓 - Análise e Desenvolvimento de Sistemas (Cursando);
 
