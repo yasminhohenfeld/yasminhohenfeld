@@ -22,7 +22,7 @@ ________________________________________________________________
  
  _______________________________________________________________
  
- ### Alguns projetos:
+ ## Alguns projetos:
  
  Aplicação disponível no link : https://yasminhohenfeld.github.io/german-food/
  
